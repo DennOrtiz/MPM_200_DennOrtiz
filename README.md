@@ -1,8 +1,13 @@
 # Template GitHub Repository for EpiPandit Lab
 ## Quantitative veterinary epidemiology and disease ecology lab
 ==============================
+What does your code do?
 
-Text summarizing your project.
+The data provide a information about hummingbirds that were admitted to different rehabilitation centers.This code provide a general idea of why this birds are admitted, and give a brief summary of possible correlations.  
+
+What are the main features and functionalities?
+
+What outputs does the code generate?
 
 ## Project Organization
 ------------
