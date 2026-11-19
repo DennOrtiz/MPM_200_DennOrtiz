@@ -1,13 +1,10 @@
 # Template GitHub Repository for EpiPandit Lab
 ## Quantitative veterinary epidemiology and disease ecology lab
 ==============================
-What does your code do?
-
-The data provide a information about hummingbirds that were admitted to different rehabilitation centers.This code provide a general idea of why this birds are admitted, and give a brief summary of possible correlations.  
-
-What are the main features and functionalities?
-
-What outputs does the code generate?
+The dataset provides information about hummingbirds admitted to different rehabilitation centers. 
+This code explores the main characteristics of the birds and the reasons why they were admitted to the rehabilitation centers. 
+The code summarizes admissions by different variables, such as year, month, and other characteristics of the birds, using tables and visualizations. 
+The main outputs include descriptive summaries, graphs, and organized datasets that help provide a general overview of hummingbird admissions.
 
 ## Project Organization
 ------------
